@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.preview/
+*.png
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
