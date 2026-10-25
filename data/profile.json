@@ -1,0 +1,19 @@
+{
+  "handle": "SilentPayload",
+  "name": "Praise Abu Ugbede",
+  "tagline": "I break things with permission, defend what matters, and teach the next set of analysts to do both.",
+  "location": "ABUJA, NIGERIA",
+  "status": "OPEN TO WORK",
+  "links": [
+    { "label": "portfolio",  "url": "https://praiz-abu-portfolio.vercel.app" },
+    { "label": "hackerone",  "url": "https://hackerone.com/unpatchedxyz" },
+    { "label": "linkedin",   "url": "https://www.linkedin.com/in/abu-praise-0a1540337" }
+  ],
+  "figures": [
+    { "value": 26, "label": "findings",  "note": "2 engagements", "emphasis": false },
+    { "value": 2,  "label": "critical",  "note": "firestore r/w", "emphasis": true  },
+    { "value": 2,  "label": "authorised tests", "note": "web apps" },
+    { "value": 4,  "label": "labs built", "note": "soc + forensics" },
+    { "value": 3,  "label": "cohorts taught", "note": "linux to dfir" }
+  ]
+}

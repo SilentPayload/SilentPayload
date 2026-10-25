@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "title": "Teaching",
+      "meta": "curriculum and exercises",
+      "repos": [
+        {
+          "slug": "linux-networking-foundations",
+          "name": "linux-networking-foundations",
+          "blurb": "Two week Linux and networking curriculum, ten sessions",
+          "meta": "CC BY 4.0 . 10 lessons",
+          "glyph": "curriculum",
+          "url": "https://github.com/SilentPayload/linux-networking-foundations"
+        },
+        {
+          "slug": "soc-analyst-exercises",
+          "name": "soc-analyst-exercises",
+          "blurb": "Log analysis worksheets with answer keys and data",
+          "meta": "CC BY 4.0 . 2 exercises",
+          "glyph": "exercises",
+          "url": "https://github.com/SilentPayload/soc-analyst-exercises"
+        }
+      ]
+    },
+    {
+      "title": "Tooling",
+      "meta": "scripts and parsers",
+      "repos": [
+        {
+          "slug": "parse-nessus",
+          "name": "parse-nessus",
+          "blurb": "Annotated Nessus CSV parser, stdlib only",
+          "meta": "MIT . python",
+          "glyph": "tooling",
+          "url": "https://github.com/SilentPayload/parse-nessus"
+        },
+        {
+          "slug": "cybersecurity-journey",
+          "name": "cybersecurity-journey",
+          "blurb": "CryptoPals and offensive cryptography work",
+          "meta": "python . notebooks",
+          "glyph": "writeups",
+          "url": "https://github.com/SilentPayload/cybersecurity-journey"
+        }
+      ]
+    },
+    {
+      "title": "Write-ups",
+      "meta": "walkthroughs",
+      "repos": [
+        {
+          "slug": "OTW-Bandit-Writeups",
+          "name": "OTW-Bandit-Writeups",
+          "blurb": "OverTheWire Bandit, level by level",
+          "meta": "wargames . linux",
+          "glyph": "writeups",
+          "url": "https://github.com/SilentPayload/OTW-Bandit-Writeups"
+        }
+      ]
+    }
+  ]
+}
